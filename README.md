@@ -1,11 +1,6 @@
-
-![Logo](https://odoocdn.com/web/image/res.partner/183/avatar_1920/Baamtu?unique=c0883c2)
-
-# Table des Matières
-
 1. [Transformeurs](#Transformeurs)
 
-    1.1 [Définition](#définition)
+    1.1 [Définition](##définition)
 
     1.2 [Pipeline des Transformeurs](#pipeline-des-transformeurs)
 
@@ -23,6 +18,7 @@
 
     2.5 [Self-attention](#self-attention)
 
+![Logo](https://www.researchgate.net/publication/323904682/figure/fig1/AS:606458626465792@1521602412057/The-Transformer-model-architecture.png)
 # Transformeurs
 
 Bien sûr, je peux vous aider à élaborer un plan détaillé sur les transformeurs, leur utilisation dans les pipelines, les encodeurs et les décodeurs, ainsi que leur application dans la traduction de langue. Voici un plan structuré :
@@ -34,10 +30,5 @@ ien sûr, je peux vous aider à élaborer un plan détaillé sur les transformeu
 ## pipeline-des-transformeurs
 
 ien sûr, je peux vous aider à élaborer un plan détaillé sur les transformeurs, leur utilisation dans les pipelines, les encodeurs et les décodeurs, ainsi que leur application dans la traduction de langue. Voici un plan structuré :
-## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
 
