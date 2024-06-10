@@ -1,3 +1,4 @@
+
 1. [Transformeurs](#Transformeurs)
 
     1.1 [Définition](##définition)
@@ -23,12 +24,13 @@
 
 Bien sûr, je peux vous aider à élaborer un plan détaillé sur les transformeurs, leur utilisation dans les pipelines, les encodeurs et les décodeurs, ainsi que leur application dans la traduction de langue. Voici un plan structuré :
 
-## definition
+# definition
 
 ien sûr, je peux vous aider à élaborer un plan détaillé sur les transformeurs, leur utilisation dans les pipelines, les encodeurs et les décodeurs, ainsi que leur application dans la traduction de langue. Voici un plan structuré :
 
-## pipeline-des-transformeurs
+# pipeline-des-transformeurs
 
 ien sûr, je peux vous aider à élaborer un plan détaillé sur les transformeurs, leur utilisation dans les pipelines, les encodeurs et les décodeurs, ainsi que leur application dans la traduction de langue. Voici un plan structuré :
+
 
 
