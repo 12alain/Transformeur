@@ -5,9 +5,9 @@
 
 1. [Transformeurs](#Transformeurs)
 
-    1.1 [Définition](##définition)
+    1.1 [Définition](#définition)
 
-    1.2 [Pipeline des Transformeurs](##pipeline-des-transformeurs)
+    1.2 [Pipeline des Transformeurs](#pipeline-des-transformeurs)
 
     1.3 [Comparaison avec les modèles précédents (RNN, LSTM)](#comparaison-avec-les-modèles-précédents-rnn-lstm)
 
