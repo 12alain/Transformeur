@@ -18,7 +18,8 @@
 
     2.5 [Self-attention](#self-attention)
 
-![Logo]([https://www.researchgate.net/publication/323904682/figure/fig1/AS:606458626465792@1521602412057/The-Transformer-model-architecture.png](https://www.d2l.ai/_images/transformer.svg)
+![Logo](https://www.researchgate.net/publication/323904682/figure/fig1/AS:606458626465792@1521602412057/The-Transformer-model-architecture.png)
+
 
 
 
