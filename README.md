@@ -51,7 +51,6 @@ classifier("I've been waiting for a HuggingFace course my whole life.")
 |------------------------------------------------|-----------------------------------------------|-------------------------------------------|-------------------------------------------|
 | **Architecture**                               | Basé sur des mécanismes d'attention           | Réseau de neurones récurrent              | RNN avec des cellules de mémoire          |
 | **Parallélisme**                               | Oui (traitement parallèle des séquences)      | Non (traitement séquentiel)               | Non (traitement séquentiel)               |
-| **Captation de contexte à longue distance**    | Très efficace (grâce à l'attention)           | Moins efficace                            | Efficace (grâce aux cellules de mémoire)  |
 | **Complexité de calcul**                       | Moins efficace pour les séquences très longues | Efficace pour les séquences courtes       | Efficace pour les séquences moyennes      |
 | **Performance**                                | State-of-the-art sur de nombreuses tâches NLP | Bon pour les tâches séquentielles simples | Bon pour les tâches séquentielles complexes |
 | **Entraînement**                               | Nécessite plus de ressources (mémoire et calcul) | Moins coûteux                             | Coût modéré                               |
