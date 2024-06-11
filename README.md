@@ -56,7 +56,4 @@ classifier("I've been waiting for a HuggingFace course my whole life.")
 | **Performance**                                | State-of-the-art sur de nombreuses tâches NLP | Bon pour les tâches séquentielles simples | Bon pour les tâches séquentielles complexes |
 | **Entraînement**                               | Nécessite plus de ressources (mémoire et calcul) | Moins coûteux                             | Coût modéré                               |
 | **Applications typiques**                      | Traduction, génération de texte, résumé, etc. | Prévision de séries temporelles, génération de séquences simples | Prévision de séries temporelles complexes, génération de séquences plus complexes |
-| **Gestion des dépendances à longue portée**    | Très bonne                                   | Faible                                    | Bonne                                     |
-| **Besoin en mémoire**                          | Elevé (dépend de la longueur de la séquence)  | Moins élevé                               | Modéré                                    |
-
 
