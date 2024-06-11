@@ -22,6 +22,7 @@
 
 
 
+
 # Transformeurs
 
 Les transformeurs sont une architecture de réseau neuronal utilisée principalement dans le traitement du langage naturel (NLP) et dans les tâches de traduction automatique. Ils ont été introduits dans le papier "Attention is All You Need" par Vaswani et al. en 2017. 
