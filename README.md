@@ -28,7 +28,7 @@
   
 
 
-![Logo](https://www.researchgate.net/publication/323904682/figure/fig1/AS:606458626465792@1521602412057/The-Transformer-model-architecture.png)
+![Logo](images/The-Transformer-model-architecture.png)
 
 
 
@@ -231,3 +231,35 @@ V = W_v * X
 
 ```
 dim_W_v =dim_W_q
+
+
+# Propagation en avant
+![Logo](https://miro.medium.com/v2/resize:fit:640/format:webp/1*yi_TsViKNs2ned-0RXK6NQ.png)
+
+La couche de propagation en avant dans les Transformers est un composant essentiel qui permet au modèle d'apprendre des relations complexes entre les mots et d'améliorer ses performances sur diverses tâches de traitement du langage naturel.
+
+Il s'agit d'une transformation par position qui consiste en une transformation linéaire, ReLU et une autre transformation linéaire.
+
+# Decoder
+
+![Logo](images/de.png)
+
+Les modèles de décodeur utilisent uniquement le décodeur d'un modèle de transformateur.
+
+Ces modèles sont les mieux adaptés aux tâches impliquant la génération de texte.
+
+Par exemple :  CTRL , Google Tag , GPT-2 ,Transformateur XL
+
+# Encodeur-decodeur 
+
+![Logo](images/En-DE.PNG)
+
+Les modèles codeur-décodeur (également appelés modèles séquence à séquence ) utilisent les deux parties de l'architecture Transformer.
+
+A chaque étape, les couches d'attention de l'encodeur peuvent accéder à tous les mots de la phrase initiale, alors que les couches d'attention du décodeur ne peuvent accéder qu'aux mots positionnés avant un mot donné dans l'entrée.
+
+Les modèles séquence à séquence sont les mieux adaptés aux tâches consistant à générer de nouvelles phrases en fonction d'une entrée donnée, telles que le résumé, la traduction ou la réponse générative à des questions.
+
+
+Par exemple : BART , mBART , Mariale, T5
+
