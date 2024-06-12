@@ -260,9 +260,17 @@ Roberta
 
 Les modèles de décodeur utilisent uniquement le décodeur d'un modèle de transformateur.
 
+Les modèles de décodeur utilisent uniquement le décodeur d'un modèle de transformateur. A chaque étape, pour un mot donné, les couches d'attention ne peuvent accéder qu'aux mots positionnés avant lui dans la phrase. Ces modèles sont souvent appelés modèles auto-régressifs .
+
 Ces modèles sont les mieux adaptés aux tâches impliquant la génération de texte.
 
-Par exemple :  CTRL , Google Tag , GPT-2 ,Transformateur XL
+Par exemple 
+```
+CTRL
+Google Tag
+GPT-2
+Transformateur XL
+```
 
 # Encodeur-decodeur 
 
@@ -273,7 +281,10 @@ Les modèles codeur-décodeur (également appelés modèles séquence à séquen
 A chaque étape, les couches d'attention de l'encodeur peuvent accéder à tous les mots de la phrase initiale, alors que les couches d'attention du décodeur ne peuvent accéder qu'aux mots positionnés avant un mot donné dans l'entrée.
 
 Les modèles séquence à séquence sont les mieux adaptés aux tâches consistant à générer de nouvelles phrases en fonction d'une entrée donnée, telles que le résumé, la traduction ou la réponse générative à des questions.
-
-
-Par exemple : BART , mBART , Mariale, T5
-
+Par exemple
+```
+BART
+mBART
+Mariale
+T5
+```
