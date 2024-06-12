@@ -243,6 +243,16 @@ Il s'agit d'une transformation par position qui consiste en une transformation l
 # Encodeur 
 ![Logo](images/Detailed-view-of-a-transformer-encoder-block-It-first-passes-the-input-through-an.png)
 L'encodeur est responsable de la transformation de la séquence d'entrée en une représentation vectorielle. Il est composé de plusieurs couches d'encodeur, chacune contenant un mécanisme d'attention et un feed forward.
+Les modèles d'encodeur sont les mieux adaptés aux tâches nécessitant une compréhension de la phrase complète, telles que la classification de phrases, la reconnaissance d'entités nommées (et plus généralement la classification de mots) et la réponse extractive à des questions.
+
+Par exemple 
+```
+ALBERT
+BERTE
+DistilBERT
+ÉLECTRE
+Roberta
+```
 
 # Decodeur
 
