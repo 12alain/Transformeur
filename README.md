@@ -28,7 +28,7 @@
   
 
 
-![Logo](https://www.researchgate.net/publication/323904682/figure/fig1/AS:606458626465792@1521602412057/The-Transformer-model-architecture.png)
+![Logo](images/The-Transformer-model-architecture.png)
 
 
 
@@ -234,7 +234,7 @@ dim_W_v =dim_W_q
 
 
 # Propagation en avant
-![Logo](/images/feed-forward-sublayer-in-transformer.png)
+![Logo](https://miro.medium.com/v2/resize:fit:640/format:webp/1*yi_TsViKNs2ned-0RXK6NQ.png)
 
 La couche de propagation en avant dans les Transformers est un composant essentiel qui permet au modèle d'apprendre des relations complexes entre les mots et d'améliorer ses performances sur diverses tâches de traitement du langage naturel.
 
