@@ -18,7 +18,7 @@
 
     2.4 [Encodage de position](#encodage-de-position)
 
-    2.5 [Mecanisme d'attention](#Mecanisme-d'attention)
+    2.5 [Mecanisme d'attention](#mecanisme-d'attention)
 
     2.6  [Feed Forward](#feed-Forward)
     
