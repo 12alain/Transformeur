@@ -176,7 +176,7 @@ supposons que nous avons pour :
 # Mecanisme d'attention
 
 
-![Logo](images/feed-forward-sublayer-in-transformer.png)
+![Logo](https://image.slidesharecdn.com/20190630transformer-210110081057/85/Attention-is-All-You-Need-Transformer-15-320.jpg)
 
 Le mécanisme d'attention  est une technique utiliser  qui permet au modèle de comprendre les relations et les dépendances entre les mots d'une séquence.
 
@@ -231,3 +231,13 @@ V = W_v * X
 
 ```
 dim_W_v =dim_W_q
+
+
+# Propagation en avant
+![Logo](/images/feed-forward-sublayer-in-transformer.png)
+
+La couche de propagation en avant dans les Transformers est un composant essentiel qui permet au modèle d'apprendre des relations complexes entre les mots et d'améliorer ses performances sur diverses tâches de traitement du langage naturel.
+
+Il s'agit d'une transformation par position qui consiste en une transformation linéaire, ReLU et une autre transformation linéaire.
+
+# Encoder
