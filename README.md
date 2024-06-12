@@ -20,11 +20,11 @@
 
     2.5 [Mécanisme d'attention](#mecanisme-d-attention)
 
-    2.6  [Feed Forward](#feed-Forward)
+    2.6 [Feed Forward](#feed-Forward)
     
-    2.7 [Encoder](#encoder)
+    2.7 [Encoder](#encodeur)
 
-    2.8 [Decoder](#decoder)
+    2.8 [Decoder](#decodeur)
   
 
 
@@ -240,7 +240,7 @@ La couche de propagation en avant dans les Transformers est un composant essenti
 
 Il s'agit d'une transformation par position qui consiste en une transformation linéaire, ReLU et une autre transformation linéaire.
 
-# Decoder
+# Decodeur
 
 ![Logo](images/de.png)
 
