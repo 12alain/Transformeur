@@ -20,7 +20,7 @@
 
     2.5 [Mécanisme d'attention](#mecanisme-dattention)
 
-    2.6 [Feed Forward](#feed-Forward)
+    2.6 [Feed Forward](#feed-forward)
     
     2.7 [Encoder](#encodeur)
 
