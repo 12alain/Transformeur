@@ -176,7 +176,7 @@ supposons que nous avons pour :
 # Mecanisme d'attention
 
 
-![Logo](https://image.slidesharecdn.com/20190630transformer-210110081057/85/Attention-is-All-You-Need-Transformer-15-320.jpg)
+![Logo](/images/t6qJz.png)
 
 Le mécanisme d'attention  est une technique utiliser  qui permet au modèle de comprendre les relations et les dépendances entre les mots d'une séquence.
 
@@ -274,7 +274,7 @@ Transformateur XL
 
 # Encodeur-decodeur 
 
-![Logo](images/En-DE.PNG)
+![Logo](images/Detailed-view-of-a-transformer-encoder-block-It-first-passes-the-input-through-an.png)
 
 Les modèles codeur-décodeur (également appelés modèles séquence à séquence ) utilisent les deux parties de l'architecture Transformer.
 
