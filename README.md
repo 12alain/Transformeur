@@ -240,6 +240,10 @@ La couche de propagation en avant dans les Transformers est un composant essenti
 
 Il s'agit d'une transformation par position qui consiste en une transformation linéaire, ReLU et une autre transformation linéaire.
 
+# Encodeur 
+
+L'encodeur est responsable de la transformation de la séquence d'entrée en une représentation vectorielle. Il est composé de plusieurs couches d'encodeur, chacune contenant un mécanisme d'attention et un feed forward.
+
 # Decodeur
 
 ![Logo](images/de.png)
