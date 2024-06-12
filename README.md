@@ -22,9 +22,9 @@
 
     2.6 [Feed Forward](#feed-forward)
     
-    2.7 [Encoder](#encodeur)
+    2.7 [Encodeur](#encodeur)
 
-    2.8 [Decoder](#decodeur)
+    2.8 [Decodeur](#decodeur)
   
 
 
