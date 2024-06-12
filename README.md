@@ -18,7 +18,7 @@
 
     2.4 [Encodage de position](#encodage-de-position)
 
-    2.5 [Mecanisme d'attention](#mecanisme-d'attention)
+    2.5 [Mécanisme d'attention](#mecanisme-dattention)
 
     2.6  [Feed Forward](#feed-Forward)
     
@@ -173,7 +173,7 @@ supposons que nous avons pour :
 
 ```
 
-# Mecanisme d'attention
+# Mécanisme d'attention
 
 
 ![Logo](https://image.slidesharecdn.com/20190630transformer-210110081057/85/Attention-is-All-You-Need-Transformer-15-320.jpg)
