@@ -25,7 +25,8 @@
     2.7 [Encodeur](#encodeur)
 
     2.8 [Decodeur](#decodeur)
-  
+
+3. [Fine-tuning](#fine-tuning)
 
 
 ![Logo](images/The-Transformer-model-architecture.png)
