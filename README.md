@@ -288,7 +288,7 @@ Transformateur XL
 
 ![Logo](images/Detailed-view-of-a-transformer-encoder-block-It-first-passes-the-input-through-an.png)
 
-Les modèles codeur-décodeur (également appelés modèles séquence à séquence ) utilisent les deux parties de l'architecture Transformer.
+Les modèles encodeur-décodeur (également appelés modèles séquence à séquence ) utilisent les deux parties de l'architecture Transformer.
 
 A chaque étape, les couches d'attention de l'encodeur peuvent accéder à tous les mots de la phrase initiale, alors que les couches d'attention du décodeur ne peuvent accéder qu'aux mots positionnés avant un mot donné dans l'entrée.
 
