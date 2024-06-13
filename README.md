@@ -300,3 +300,6 @@ mBART
 Mariale
 T5
 ```
+# Fine Tuning 
+
+Le fine-tuning, est une technique spécifique dans le cadre du transfert learning où un modèle pré-entraîné est ajusté (ou fine-tuné) sur une tâche spécifique en modifiant ses poids pour s'adapter aux caractéristiques des données d'entraînement annotées. Cela permet au modèle de s'adapter plus efficacement et précisément à la tâche cible en exploitant les représentations génériques apprises lors du pré-entraînement.
